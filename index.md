@@ -1,4 +1,4 @@
-#Jessica Dresmann's First CS193 Homework
+# Jessica Dresmann's First CS193 Homework
 
 Favorite things about CS193
 - It's my last class of the day
